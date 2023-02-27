@@ -19,4 +19,4 @@ I'm a Front-End developer by passion .
 
 ## 📫 How to reach me
 
-* 🔗 I have a personal website at [https://thedaviddias.dev](https://thedaviddias.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) where all my social networks are located! You can reach me anywhere over there!
+* 🔗 I have a personal website at [www.hamzasliti.de](https://hamzasliti.de/) where all my social networks are located! You can reach me anywhere over there!
