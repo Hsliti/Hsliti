@@ -2,7 +2,7 @@
 
 <p align='center'>
   
-  <a href="[https://www.linkedin.com/in/thedaviddias](https://www.linkedin.com/in/hamza-sliti)">
+  <a href="https://www.linkedin.com/in/hamza-sliti">
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/7amza.sliti/">
