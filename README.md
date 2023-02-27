@@ -11,7 +11,7 @@
  
 </p>
 
-I'm **David Dias** (he/him) 🇫🇷 🇵🇹 🇧🇷 🇲🇺 📍 now living in 🇨🇦.
+I'm **Hamza Sliti**  📍 now living in 🇨🇦.
 
 I'm a Front-End Software Engineer by passion and an expat by choice living now in Toronto, Canada.
 
