@@ -11,11 +11,11 @@
  
 </p>
 
-I'm **Hamza Sliti**  📍 now living in 🇨🇦.
+I'm **Hamza Sliti**  📍 now living in Cologne , Germany.
 
-I'm a Front-End Software Engineer by passion and an expat by choice living now in Toronto, Canada.
+I'm a Front-End developer by passion .
 
-I created the [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) in 2017 and have been passionate about open-source since. I'm also an accessibility advocate ([CPACC](https://www.accessibilityassociation.org/s/certified-professional) certified)! I'm always working on a new project to help the community.
+
 
 ## 📫 How to reach me
 
